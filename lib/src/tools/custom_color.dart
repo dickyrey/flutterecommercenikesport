@@ -1,9 +1,0 @@
-const int color1 = 0xFFF7F3E6;
-const int color2 = 0xFFC7BBC9;
-const int color3 = 0xFF83AAC1;
-const int color4 = 0xFF996FAF;
-const int color5 = 0xFFFBF8E7;
-const int color6 = 0xFFE7FCED;
-const int color7 = 0xFFF4F8E7;
-const int color8 = 0xFFF8FAF8;
-const int color9 = 0xFF3C3D3E;
