@@ -1,0 +1,33 @@
+name: nike_store
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.4
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.0.3
+  flutter_swiper_null_safety: ^1.0.2
+  google_fonts: ^2.3.1
+  simple_animations: ^4.0.1
+
+dev_dependencies:
+  flutter_lints: ^1.0.4
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+  fonts:
+    - family: Avant
+      fonts:
+        - asset: assets/fonts/ITCAvantGardeStdBk.otf
